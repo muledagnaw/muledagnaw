@@ -13,37 +13,54 @@ I am a mathematics educator and aspiring data analyst with extensive experience 
 
 ---
 
-## 🎓 Education
 
+## 🎓 Education & Training
 
-  
-* **PhD in Mathematics,**
-  *Addis Ababa University, Ethiopia* | *2015 – 2019*
+**💻 Just IT Training Ltd, London** — Digital Skills Bootcamp: Data Technician L3 (Dec 2025 – Jan 2026)
 
-* **MSc in Mathematics,**
-  *Addis Ababa University, Ethiopia* | *2009 – 2011*
-  
-* **BSc in Mathematics,**
-  *Wollega University, Ethiopia* | *2007 – 2009*
+* 🗄️ Data, Big Data, Data Structures, Architecture & Governance
+* 📊 Data Analysis using Excel, Python (Pandas, Matplotlib, Seaborn)
+* 📈 Data Visualisation with Tableau & Power BI
+* 🛠️ Introduction to Databases - Azure & SQL
+* ☁️ Azure Fundamentals (SAAS, PAAS, IAAS, Relational & Non-relational data, MS Fabric)
+
+**🎓 Addis Ababa University, Ethiopia**
+
+* 📜 PhD in Mathematics (2015–2019)
+* 📜 MSc in Mathematics (2009–2011)
+
+**🎓 Wollega University, Ethiopia**
+
+* 📜 BSc in Mathematics (2007–2009)
+
 
 ---
 
-## 💼 Experience
+## 💼 Employment & Volunteer Experience
 
-* I have over seven years of experience in teaching and research across universities, and I am currently involved in volunteer work within my local community.
+**👐 Assistant – Volunteer** | Witney & West Oxfordshire Food Bank (Jun 2025 – Present)
+
+* 📦 Managing and organizing donated food items
+* 🛒 Stock rotation and display arrangement
+* 🧹 Keeping the store clean and tidy
+
+**🔬 Academic Research Visitor** | Brunel University London (Jun 2024 – Jan 2025)
+
+* 📊 Conducted and presented original mathematics research
+* 🌍 Attended national and international conferences
+
+**🎓 Community Outreach Volunteer** | Multaka Project, University of Oxford (Jan 2025 – Jun 2025)
+
+* 🕰️ Delivered presentations on historical instruments and calendars
+* 🧪 Displayed and explained scientific instruments during public events
+
+**📚 Teaching & Data Entry Roles** | Injibara & Debre Tabor University, Ethiopia (2009 – 2024)
+
+* 👩‍🏫 Delivered courses at multiple levels
+* 📝 Supported lesson planning, grading, and record-keeping
+* 💻 Entered and managed data digitally, using Excel, Word, PowerPoint, MATLAB, and LaTeX
+
 ---
-
-
-## 🚀 Why Data Technician?
-
-* I wanted a **structured, hands-on pathway** to transition my 🧮 **mathematical** and 📊 **analytical skills** into a **data role**.
-
-* I am **passionate about exploring real-world datasets** 🌎📈 and uncovering meaningful insights.
-
----
-## 🎓 During Data techinician Bootcam Training
-* 💻 I have developed the ability to **analyze real-world datasets** using a variety of **software tools** 🛠️ and **cloud computing platforms** ☁️.
-
 
 ## 🛠️ Core Skills  
 Here are the tools and technologies I use to solve problems and craft data-driven stories:  
@@ -79,25 +96,32 @@ Here are the tools and technologies I use to solve problems and craft data-drive
   - Skilled in data manipulation and analysis using Pandas and NumPy.  
   - Proficient in data visualization using Matplotlib and Seaborn.  
 
+
+### Soft Skills
+- Accountability ✅  
+- Critical Thinking 🤔  
+- Excellent Communication 🗣️  
+- Strong Presenting Skills 🎤  
+- Adaptable & Resilient 🌱  
+- Analytical Thinking 🧠  
+- Problem Solving 🛠️  
+- Organisation & Time Management ⏰  
+- Teamwork & Multi-tasking 🤝  
 ---
-## Transferable Skills
-* Critical thinking & logical reasoning
-* Methodical problem-solving approach
-* Excellent attention to detail
-* Strong communication skills
-* Working under Pressure
-* Adapt new environment
+Here’s your **Interests & Hobbies** section fully emoji-enhanced for GitHub:
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Interests & Hobbies
 
-* Strengthening **SQL, Power BI, Tableau , Excel and cloud data skills Azure**
-* Transitioning into **Data Analyst roles**
-
+* 📊 Exploring real-world datasets and applying analytical techniques
+* 📖 Reading, 🚴‍♂️ Cycling, and ♟️ Mathematical games
+* 📝 Creating clear, structured resources to explain complex information
 ---
 
 ## 📫 Connect With Me
+Feel free to reach out via 
+* 📧  [Email](mailto:malemayehu3@gmail.com)
 * 🐙 [GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/)
 * 🎓 [Google Scholar](https://scholar.google.com/citations?user=9TEFWOAAAAAJ&hl=en)
