@@ -107,8 +107,6 @@ Here are the tools and technologies I use to solve problems and craft data-drive
 - Problem Solving 🛠️  
 - Organisation & Time Management ⏰  
 - Teamwork & Multi-tasking 🤝  
----
-Here’s your **Interests & Hobbies** section fully emoji-enhanced for GitHub:
 
 ---
 
