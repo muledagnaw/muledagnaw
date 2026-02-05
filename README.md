@@ -25,8 +25,6 @@ I am a mathematics educator and aspiring data analyst with extensive experience 
 * ☁️ Azure Fundamentals (SAAS, PAAS, IAAS, Relational & Non-relational data, MS Fabric)
 
 **🎓 Addis Ababa University, Ethiopia**
-
-* 📜 PhD in Mathematics (2015–2019)
 * 📜 MSc in Mathematics (2009–2011)
 
 **🎓 Wollega University, Ethiopia**
