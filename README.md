@@ -3,7 +3,7 @@
 🔍 **Mathematics Educator | Data Analyst | Data Technician**
 
 📍 Witney, UK
-🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/) | [Google Scholar](https://scholar.google.com/citations?user=9TEFWOAAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-8214-5163) | [GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
+🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/) | [GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
 
 ---
 
@@ -120,9 +120,7 @@ Feel free to reach out via
 * 📧  [Email](mailto:malemayehu3@gmail.com)
 * 🐙 [GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/)
-* 🎓 [Google Scholar](https://scholar.google.com/citations?user=9TEFWOAAAAAJ&hl=en)
-* 🧪 [ResearchGate](https://www.researchgate.net/profile/Mulugeta_Dagnaw2)
-* 🆔 [ORCID](https://orcid.org/0000-0001-8214-5163)
+
 
 ---
 
