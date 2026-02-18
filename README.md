@@ -35,14 +35,17 @@ I am a mathematics educator and aspiring data analyst with extensive experience 
 ---
 
 ## 💼 Employment & Volunteer Experience
+**🔬 Academic Research Visitor** | Brunel University London (Jan 2026 – Present)
 
+* 📊 Conducting original mathematics research
+* 
 **👐 Assistant – Volunteer** | Witney & West Oxfordshire Food Bank (Jun 2025 – Present)
 
 * 📦 Managing and organizing donated food items
 * 🛒 Stock rotation and display arrangement
 * 🧹 Keeping the store clean and tidy
 
-**🔬 Academic Research Visitor** | Brunel University London (Jun 2024 – Jan 2025)
+**🔬 Academic Research Visitor** | Brunel University London (Aug 2024 – Jan 2025)
 
 * 📊 Conducted and presented original mathematics research
 * 🌍 Attended national and international conferences
