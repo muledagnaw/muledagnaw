@@ -40,7 +40,7 @@ I am a mathematics educator and aspiring data analyst with extensive experience 
 
 * 📊 Conducting original mathematics research
   
-**👐 Assistant – Volunteer** | Witney & West Oxfordshire Food Bank (Jun 2025 – Dece 2025)
+**👐 Assistant – Volunteer** | Witney & West Oxfordshire Food Bank (Jun 2025 – Dec 2025)
 
 * 📦 Managing and organizing donated food items
 * 🛒 Stock rotation and display arrangement
