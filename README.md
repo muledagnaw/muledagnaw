@@ -130,7 +130,7 @@ Feel free to reach out via
 
 ### 🤝 
 
-I am looking for roles such as Junior Data Analyst.
+I am looking for Junior Data Analyst role.
 
 ---
 
