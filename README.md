@@ -2,7 +2,7 @@
 
 🔍 **Mathematics Educator | Data Analyst | Data Technician**
 
-📍 Witney, UK
+📍 Oxford, UK
 🔗 [LinkedIn](https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/) | [GitHub](https://github.com/muledagnaw/MulugetaDagnaw)
 
 ---
